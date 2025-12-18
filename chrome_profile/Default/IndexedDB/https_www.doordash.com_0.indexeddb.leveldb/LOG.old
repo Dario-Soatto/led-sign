@@ -1,0 +1,6 @@
+2025/12/18-02:24:47.006 307c Creating DB C:\Users\devai\OneDrive\Desktop\DoorDash-Monitor\chrome_profile\Default\IndexedDB\https_www.doordash.com_0.indexeddb.leveldb since it was missing.
+2025/12/18-02:24:47.015 307c Reusing MANIFEST C:\Users\devai\OneDrive\Desktop\DoorDash-Monitor\chrome_profile\Default\IndexedDB\https_www.doordash.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/18-02:24:50.417 4684 Level-0 table #5: started
+2025/12/18-02:24:50.422 4684 Level-0 table #5: 24840 bytes OK
+2025/12/18-02:24:50.428 4684 Delete type=0 #3
+2025/12/18-02:24:50.428 1e24 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,13 @@
+2025/12/18-02:25:04.084 3bfc Reusing MANIFEST C:\Users\devai\OneDrive\Desktop\DoorDash-Monitor\chrome_profile\Default\IndexedDB\https_www.doordash.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/18-02:25:04.084 3bfc Recovering log #4
+2025/12/18-02:25:04.085 3bfc Reusing old log C:\Users\devai\OneDrive\Desktop\DoorDash-Monitor\chrome_profile\Default\IndexedDB\https_www.doordash.com_0.indexeddb.leveldb/000004.log 
+2025/12/18-02:25:04.152 57d0 Level-0 table #8: started
+2025/12/18-02:25:04.156 57d0 Level-0 table #8: 98526 bytes OK
+2025/12/18-02:25:04.160 57d0 Delete type=0 #4
+2025/12/18-02:25:04.161 57d0 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/18-02:25:04.191 57d0 Compacting 1@1 + 1@2 files
+2025/12/18-02:25:04.196 57d0 Generated table #9@1: 542 keys, 92556 bytes
+2025/12/18-02:25:04.196 57d0 Compacted 1@1 + 1@2 files => 92556 bytes
+2025/12/18-02:25:04.200 57d0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/18-02:25:04.201 57d0 Delete type=2 #5
+2025/12/18-02:25:04.201 57d0 Delete type=2 #8
